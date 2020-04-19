@@ -8,7 +8,8 @@
  * I hope you will enjoy exploring all my work done to construct this application.
  * 
  * I would like to credit the IBM Knowledge Center and the Linux Man pages for providing very useful 
- * information which helped me learn about socket programming and helped me develop new skills.
+ * information which helped me learn about socket programming and helped me develop new skills
+ * by explaining what each function does.
  * Big thanks also to people who gave me good facts on things on StackOverflow.
  * 
  * -Patryk. M
