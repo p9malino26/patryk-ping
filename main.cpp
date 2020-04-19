@@ -56,7 +56,7 @@ class Ping {
     std::string sendData;
     std::string receiveData;
 
-    //we use std::chrono to measure RTT time
+    //we use std::chrono to measure RTT time in a simple and modern C++ way
     typedef std::chrono::time_point<std::chrono::high_resolution_clock> time_point;
     time_point send_begin;
 
